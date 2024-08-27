@@ -63,3 +63,11 @@ void vec2MinusVec1(int* vec2, int* vec1,int lenVec2,int lenVec1){
     }
     printf("]\n\n");
 }
+
+/*
+Nombre: Brayan Lopez Mercado
+Matricula: 1280838
+Fecha: 27 de agosto de 2024
+Materia: Algoritmos y Estructura De Datos
+Practica 1: Analizar la eficiencia de los algoritmos
+*/
